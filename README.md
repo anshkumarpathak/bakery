@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `npm install`
+All the required dependencies will be installed.
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -14,30 +15,31 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Libraries Used
+### `Redux`
+Redux is an open-source JavaScript library for managing and centralizing application state. It is most commonly used with libraries such as React or Angular for building user interfaces.
+### `Tailwind`
+Tailwind CSS is basically a utility-first CSS framework for rapidly building custom user interfaces. It is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
+### `react-toastify`
+React-Toastify allows you to add notifications to your app with ease.
+### `react-router-dom`
+React Router is a standard library for routing in React. It enables the navigation among views of various components in a React Application, allows changing the browser URL, and keeps the UI in sync with the URL.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## DEMO
+![image](https://github.com/anshkumarpathak/bakery/assets/79848468/41372cbd-cb8a-4ce9-b4aa-dc688fefd81c)
+![image](https://github.com/anshkumarpathak/bakery/assets/79848468/7f4c127d-1eb6-4675-86d6-3b3ced6dc086)
+![image](https://github.com/anshkumarpathak/bakery/assets/79848468/f1b3e5c4-c6c6-491f-9006-425f66835e1b)
+![image](https://github.com/anshkumarpathak/bakery/assets/79848468/ee962540-52bf-485f-bf2a-e23766f42b2c)
+![image](https://github.com/anshkumarpathak/bakery/assets/79848468/a5c2bb7b-2113-4ec7-a95a-a277b8a28566)
+![image](https://github.com/anshkumarpathak/bakery/assets/79848468/a343a8fa-6270-4033-aca3-55aed5f61fad)
+![image](https://github.com/anshkumarpathak/bakery/assets/79848468/df087ba4-624d-486c-9160-ad74803739e8)
+![image](https://github.com/anshkumarpathak/bakery/assets/79848468/007c7d5b-0507-41ea-8e1d-18495196ee09)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
 
