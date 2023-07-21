@@ -35,7 +35,7 @@ React Router is a standard library for routing in React. It enables the navigati
 ![image](https://github.com/anshkumarpathak/bakery/assets/79848468/a5c2bb7b-2113-4ec7-a95a-a277b8a28566)
 ![image](https://github.com/anshkumarpathak/bakery/assets/79848468/a343a8fa-6270-4033-aca3-55aed5f61fad)
 ![image](https://github.com/anshkumarpathak/bakery/assets/79848468/df087ba4-624d-486c-9160-ad74803739e8)
-![image](https://github.com/anshkumarpathak/bakery/assets/79848468/007c7d5b-0507-41ea-8e1d-18495196ee09)
+![image](https://github.com/anshkumarpathak/bakery/assets/79848468/1230566c-78e9-4f9d-aaee-843c35414756)
 
 
 
